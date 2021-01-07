@@ -69,12 +69,12 @@
 ---
 
 ## Installation
-#### - [Clone this repo](https://github.com/ahnlok/digital-coffee.git)
+#### - [Clone this repo](https://github.com/tonyschwebach/digital-coffee)
 #### - Push to GitHub
 #### - Serve main branch via GitHub Pages.
 ---
 ## Usage
-##### View the site at [digital-coffee](https://ahnlok.github.io/digital-coffee/)
+##### View the site at [digital-coffee](https://tonyschwebach.github.io/digital-coffee/)
 
 ---
 ## Credit
